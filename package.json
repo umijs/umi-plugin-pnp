@@ -1,0 +1,13 @@
+{
+  "name": "umi-plugin-pnp",
+  "version": "0.1.5",
+  "dependencies": {
+    "@babel/runtime": "^7.1.2",
+    "core-js": "^2.5.7",
+    "pnp-webpack-plugin": "^1.1.0",
+    "regenerator-runtime": "^0.12.1"
+  },
+  "files": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "installConfig": {
+    "pnp": true
+  },
+  "scripts": {
+    "start": "umi dev",
+    "build": "COMPRESS=none umi build",
+    "umi": "umi"
+  },
+  "dependencies": {
+    "react-switch": "^3.0.4",
+    "umi": "^2.1.3-beta.3",
+    "umi-plugin-pnp": "^0.1.5"
+  }
+}
