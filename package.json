@@ -1,11 +1,27 @@
 {
   "name": "umi-plugin-pnp",
   "version": "0.1.5",
+  "description": "Umi plugin to support Plug'n'Play of yarn.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umijs/umi-plugin-pnp/tree/master/packages/umi"
+  },
+  "homepage": "https://github.com/umijs/umi-plugin-pnp/tree/master/packages/umi",
+  "authors": [
+    "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)"
+  ],
+  "bugs": {
+    "url": "https://github.com/umijs/umi-plugin-pnp/issues"
+  },
   "dependencies": {
     "@babel/runtime": "^7.1.2",
     "core-js": "^2.5.7",
     "pnp-webpack-plugin": "^1.1.0",
     "regenerator-runtime": "^0.12.1"
+  },
+  "peerDependencies": {
+    "umi": "2.x"
   },
   "files": [
     "index.js"
