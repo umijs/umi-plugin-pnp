@@ -17,6 +17,7 @@
   "dependencies": {
     "@babel/runtime": "^7.1.2",
     "core-js": "^2.5.7",
+    "file-loader": "^1.1.11",
     "pnp-webpack-plugin": "^1.1.0",
     "regenerator-runtime": "^0.12.1"
   },
