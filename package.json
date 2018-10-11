@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-pnp",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Umi plugin to support Plug'n'Play of yarn.",
   "license": "MIT",
   "repository": {
